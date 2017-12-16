@@ -26,6 +26,3 @@ class TalkCmp {
 * [Introducing AngularJS [Video]](https://www.packtpub.com/web-development/introducing-angularjs-video?utm_source=github&utm_medium=repository&utm_campaign=9781783554218)
 
 * [AngularJS Directives Cookbook](https://www.packtpub.com/web-development/angularjs-directives-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781784395896)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
